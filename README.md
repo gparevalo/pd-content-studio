@@ -1,5 +1,3 @@
-# pd-content-studio
-
 # PD Content Studio
 
 > **No creamos publicaciones. Construimos un sistema que convierte conocimiento en contenido de alta calidad, de forma consistente y escalable.**
