@@ -1,4 +1,24 @@
-# PD Content Studio
+---
+id: DOC-001 
+title: PD Content Studio
+version: 0.1.0
+status: Active
+owner: PD Agencia
+created: 2026-07-23
+last_updated: 2026-07-23
+author: PD Content Studio
+category: Foundation
+tags:
+  - foundation
+  - documentation
+  - architecture
+related:
+  - docs/principles.md
+  - docs/architecture.md
+  - docs/workflow.md
+  - docs/glossary.md
+  - docs/roadmap.md
+---
 
 > **No creamos publicaciones. Construimos un sistema que convierte conocimiento en contenido de alta calidad, de forma consistente y escalable.**
 
@@ -6,13 +26,13 @@
 
 ## Estado del proyecto
 
-| Campo | Valor |
-|--------|-------|
-| Versión | 0.1.0 |
-| Estado | 🟡 Fundación |
-| Propietario | PD Agencia |
-| Arquitectura | Modular |
-| Licencia | Privada (uso interno de PD Agencia) |
+| Campo        | Valor                               |
+| ------------ | ----------------------------------- |
+| Versión      | 0.1.0                               |
+| Estado       | 🟡 Fundación                        |
+| Propietario  | PD Agencia                          |
+| Arquitectura | Modular                             |
+| Licencia     | Privada (uso interno de PD Agencia) |
 
 ---
 
@@ -247,3 +267,54 @@ Antes de agregar un nuevo documento verifica:
 
 © PD Agencia
 PD Content Studio
+
+
+
+DOC-001 README
+DOC-002 Principles
+DOC-003 Architecture
+DOC-004 Workflow
+DOC-005 Glossary
+DOC-006 Roadmap
+DOC-007 Decisions
+
+
+
+
+
+PD Content Studio Workflow v0.1
+
+Solicitud
+
+↓
+
+Contexto del cliente
+(client-context)
+
+↓
+
+Producción de contenido
+(copy + estructura + CTA + caption)
+
+↓
+
+Aprobación del contenido
+
+↓
+
+Producción visual
+(diseño)
+
+↓
+
+Revisión
+
+↓
+
+Entrega
+
+↓
+
+Biblioteca de activos
+(aprendizaje)
+
