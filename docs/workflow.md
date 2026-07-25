@@ -1,279 +1,57 @@
 ---
 id: DOC-004
-title: Workflow
-version: 0.1.0
+title: Workflow Governance
+version: 0.2.0
 status: Active
 owner: PD Agencia
 created: 2026-07-23
-last_updated: 2026-07-23
+last_updated: 2026-07-25
 author: PD Content Studio
 category: Foundation
-tags:
-  - workflow
-  - process
-  - production
 related:
-  - README.md
-  - docs/principles.md
+  - docs/production-pipeline.md
   - docs/architecture.md
-  - docs/glossary.md
+  - docs/principles.md
 ---
 
-# Workflow de Producción
+# Gobierno del workflow
 
-> **El workflow define el proceso estándar para transformar una necesidad de negocio en un contenido publicado y documentado.**
+> Este documento establece las reglas de gobierno del ciclo de producción. No define las etapas operativas.
 
----
+## Fuente de verdad
 
-# Propósito
+`docs/production-pipeline.md` es la única fuente de verdad para las etapas,
+entradas, salidas, criterios de avance, aprobaciones y escenarios de
+producción. Todo documento, agente o automatización debe referirse a ese
+pipeline en lugar de reproducirlo.
 
-Establecer un flujo de trabajo único y repetible para todos los proyectos de contenido desarrollados con PD Content Studio.
+## Propósito
 
-Este proceso garantiza consistencia, calidad y aprendizaje continuo.
+Garantizar que el proceso sea consistente, auditable y capaz de incorporar
+aprendizajes sin duplicar reglas en distintos documentos.
 
----
+## Reglas de gobierno
 
-# Principios
+- Toda solicitud debe tener un Workspace identificado antes de producir.
+- Las excepciones al pipeline se documentan en el Production Package.
+- Ninguna fase que requiera aprobación avanza sin la aprobación indicada.
+- Los resultados de medición y revisión generan un aprendizaje o una decisión
+  explícita de no actualizar el conocimiento.
+- Los cambios permanentes de proceso se registran en `docs/decisions.md` y se
+  implementan primero en el pipeline canónico.
 
-- Todo contenido inicia con un objetivo, no con una idea.
-- Ningún paso puede omitirse sin una justificación.
-- Cada entrega debe generar aprendizaje para el sistema.
-- El workflow es independiente del canal (Instagram, LinkedIn, Blog, etc.).
+## Ciclo de mejora
 
----
+Después de la entrega, el equipo registra resultados y decide si corresponde:
 
-# Flujo General
+- actualizar un Framework o patrón reutilizable;
+- actualizar el Workspace del cliente;
+- crear una decisión arquitectónica; o
+- conservar el conocimiento solo en el Production Package, si es específico a
+  una entrega.
 
-```
-Solicitud
-    ↓
-Brief
-    ↓
-Objetivo
-    ↓
-Investigación
-    ↓
-Análisis
-    ↓
-Selección de Framework
-    ↓
-Copywriting
-    ↓
-Diseño
-    ↓
-Control de Calidad
-    ↓
-Entrega
-    ↓
-Medición
-    ↓
-Aprendizaje
-```
+## Alcance
 
----
-
-# Etapas
-
-## 1. Solicitud
-
-### Objetivo
-
-Recibir la necesidad del cliente.
-
-### Entrada
-
-- Solicitud del cliente.
-
-### Salida
-
-- Brief inicial.
-
-### Responsable
-
-- Estratega de cuenta.
-
----
-
-## 2. Brief
-
-### Objetivo
-
-Entender el contexto antes de producir.
-
-### Entrada
-
-- Solicitud del cliente.
-
-### Salida
-
-- Objetivo claro.
-- Público objetivo.
-- Canal.
-- Formato.
-
-### Responsable
-
-- Estratega.
-
----
-
-## 3. Objetivo
-
-### Objetivo
-
-Definir qué resultado debe lograr el contenido.
-
-Ejemplos:
-
-- Educar.
-- Vender.
-- Generar confianza.
-- Obtener leads.
-- Fidelizar.
-
----
-
-## 4. Investigación
-
-### Objetivo
-
-Recolectar información confiable.
-
-Fuentes posibles:
-
-- Cliente.
-- Documentación.
-- Referencias.
-- Competencia.
-- Tendencias.
-
-Salida:
-
-- Información validada.
-
----
-
-## 5. Análisis
-
-### Objetivo
-
-Identificar patrones útiles.
-
-Preguntas guía:
-
-- ¿Qué problema resolveremos?
-- ¿Qué nivel de conocimiento tiene la audiencia?
-- ¿Qué enfoque es más efectivo?
-
-Salida:
-
-- Framework recomendado.
-
----
-
-## 6. Selección de Framework
-
-### Objetivo
-
-Elegir la estructura que mejor resuelva el objetivo del contenido.
-
-Ejemplos:
-
-- Hook educativo.
-- Storytelling.
-- Lista.
-- Mito vs realidad.
-- Antes y después.
-
-Salida:
-
-- Framework seleccionado.
-
----
-
-## 7. Copywriting
-
-### Objetivo
-
-Desarrollar el contenido siguiendo el framework elegido.
-
-Salida:
-
-- Copy aprobado.
-
----
-
-## 8. Diseño
-
-### Objetivo
-
-Transformar el copy en una pieza visual.
-
-Salida:
-
-- Diseño listo para revisión.
-
----
-
-## 9. Control de Calidad
-
-Verificar:
-
-- Objetivo cumplido.
-- Ortografía.
-- Consistencia visual.
-- Tono de marca.
-- CTA.
-- Legibilidad.
-
-Salida:
-
-- Contenido aprobado.
-
----
-
-## 10. Entrega
-
-Publicación o entrega al cliente.
-
-Salida:
-
-- Output final.
-
----
-
-## 11. Medición
-
-Registrar resultados relevantes.
-
-Ejemplos:
-
-- Alcance.
-- Guardados.
-- Compartidos.
-- Comentarios.
-- Conversión.
-
----
-
-## 12. Aprendizaje
-
-Documentar cualquier hallazgo que mejore el sistema.
-
-Ejemplos:
-
-- Un nuevo patrón.
-- Un CTA efectivo.
-- Un error recurrente.
-- Una nueva referencia.
-
-Todo aprendizaje debe incorporarse al sistema antes de cerrar el proyecto.
-
----
-
-# Documentos relacionados
-
-- README.md
-- principles.md
-- architecture.md
-- glossary.md
+Este documento no sustituye el brief de una solicitud ni define una plantilla
+de entregable. Esas responsabilidades pertenecen, respectivamente, a
+`docs/design-brief-specification.md` y al Production Pipeline.

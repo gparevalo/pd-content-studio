@@ -186,6 +186,37 @@ Positivas
 
 ---
 
+# ADR-006
+
+## Título
+
+`production-pipeline.md` es la fuente única de verdad del proceso operativo.
+
+### Contexto
+
+El repositorio mantenía una descripción completa de etapas tanto en Workflow
+como en Production Pipeline, con diferente nivel de detalle. Esa duplicación
+podía producir instrucciones contradictorias para el equipo y los agentes.
+
+### Decisión
+
+Production Pipeline define etapas, entradas, salidas, aprobaciones y
+escenarios. Workflow conserva solo las reglas de gobierno y mejora continua.
+
+### Consecuencias
+
+Positivas
+
+- Un único lugar para actualizar el proceso.
+- Menor ambigüedad para Sofi y futuras automatizaciones.
+- Mejor trazabilidad de excepciones y aprobaciones.
+
+Negativas
+
+- Todo cambio de proceso requiere actualizar primero el pipeline canónico.
+
+---
+
 # Próximas decisiones
 
 Las siguientes decisiones deberán registrarse conforme evolucione el sistema.
@@ -210,3 +241,4 @@ Ejemplos:
 | ADR-003 | Activa |
 | ADR-004 | Activa |
 | ADR-005 | Activa |
+| ADR-006 | Activa |

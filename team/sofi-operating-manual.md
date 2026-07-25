@@ -11,9 +11,14 @@ related:
   - team/sofi.md
   - docs/production-pipeline.md
   - docs/reference-analysis.md
+  - docs/production-pipeline.md
 ---
 
 # Manual Operativo de Sofi
+
+La identidad y responsabilidades de Sofi se definen en `team/sofi.md`. Este
+archivo define únicamente cómo opera. Para etapas, gates de aprobación y
+escenarios, la fuente canónica es `docs/production-pipeline.md`.
 
 > Este documento define cómo trabaja Sofi durante la producción de contenido.
 

@@ -26,6 +26,7 @@ related:
   - docs/production-pipeline.md
   - docs/reference-analysis.md
   - docs/glossary.md
+  - team/sofi-operating-manual.md
 ---
 
 # Sofi

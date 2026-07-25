@@ -16,6 +16,8 @@ tags:
 related:
   - docs/AI_CONTEXT.md
   - docs/design-brief-specification.md
+  - clients/restrepo_optica/brand/visual-style.md
+  - clients/restrepo_optica/content/pillars.md
 ---
 
 # RESTREPO ÓPTICA — Client Context

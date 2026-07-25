@@ -3,7 +3,14 @@ id: BRAND-001
 title: RESTREPO ÓPTICA Visual Style
 version: 0.1.0
 status: Active
+owner: PD Agencia
+created: 2026-07-23
+last_updated: 2026-07-25
+author: PD Content Studio
 category: Brand
+related:
+  - clients/restrepo_optica/client-context.md
+  - clients/restrepo_optica/content/pillars.md
 ---
 
 # RESTREPO ÓPTICA — Visual Style
@@ -125,10 +132,10 @@ Uso:
 - Énfasis.
 - Conceptos aspiracionales.
 
-Ejemplos:
+Ejemplos de uso permitidos, sujetos a aprobación de marca:
 
-- belleza
-- piel
+- bienestar
+- visión
 - cuidado
 
 ---

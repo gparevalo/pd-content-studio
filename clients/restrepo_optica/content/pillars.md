@@ -2,6 +2,15 @@
 id: CONTENT-001
 title: RESTREPO ÓPTICA Content Pillars
 version: 0.1.0
+status: Active
+owner: PD Agencia
+created: 2026-07-23
+last_updated: 2026-07-25
+author: PD Content Studio
+category: Content Strategy
+related:
+  - clients/restrepo_optica/client-context.md
+  - clients/restrepo_optica/brand/visual-style.md
 ---
 
 # RESTREPO ÓPTICA — Content Pillars

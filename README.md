@@ -18,6 +18,8 @@ related:
   - docs/workflow.md
   - docs/glossary.md
   - docs/roadmap.md
+  - docs/production-pipeline.md
+  - knowledge/index.md
 ---
 
 > **No creamos publicaciones. Construimos un sistema que convierte conocimiento en contenido de alta calidad, de forma consistente y escalable.**
@@ -77,23 +79,17 @@ Todos los activos del proyecto deben respetar los siguientes principios:
 pd-content-studio/
 
 README.md
-CHANGELOG.md
+backlog.md
 
-docs/
-brand/
-strategy/
-frameworks/
-content-types/
-design-system/
-templates/
-references/
-prompts/
-checklists/
-examples/
-outputs/
+docs/                 # Gobierno, arquitectura y proceso
+team/                 # Definición y manuales de agentes
+clients/              # Workspaces de cada cliente
+knowledge/            # Índice del conocimiento reutilizable
+frameworks/           # Patrones reutilizables de contenido, copy y diseño
 ```
 
-Cada carpeta tiene una responsabilidad específica y documentada.
+Cada carpeta tiene una responsabilidad específica y documentada. La estructura
+crece únicamente cuando exista un activo permanente que lo justifique.
 
 ---
 
@@ -317,4 +313,3 @@ Entrega
 
 Biblioteca de activos
 (aprendizaje)
-

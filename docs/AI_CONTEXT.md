@@ -18,6 +18,7 @@ related:
   - docs/principles.md
   - docs/workflow.md
   - docs/glossary.md
+  - docs/production-pipeline.md
 ---
 
 # AI Context
@@ -76,6 +77,9 @@ Antes de crear contenido debe entender:
 ---
 
 # Flujo de trabajo de la IA
+
+La IA debe seguir el flujo canónico de `docs/production-pipeline.md`. La
+secuencia siguiente es una orientación de lectura, no un segundo pipeline.
 
 Ante una nueva solicitud:
 

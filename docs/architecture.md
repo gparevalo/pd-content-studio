@@ -236,6 +236,10 @@ El Production Package representa la entrega oficial del sistema.
 
 # Flujo de Producción
 
+`docs/production-pipeline.md` es la única fuente de verdad para las etapas,
+entradas, salidas, aprobaciones y escenarios de producción. Este documento
+explica cómo se conectan los componentes; no redefine el flujo operativo.
+
 Toda producción sigue el mismo recorrido.
 
 ```text
