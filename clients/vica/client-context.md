@@ -1,8 +1,8 @@
 ---
 id: CLIENT-003
 title: VICA Medicina Estética Client Context
-version: 0.1.0
-status: Draft
+version: 0.2.0
+status: Active
 owner: PD Agencia
 created: 2026-07-25
 last_updated: 2026-07-25
@@ -17,7 +17,7 @@ related:
 
 # VICA Medicina Estética - Client Context
 
-> Workspace creado con el Brand Book y la web oficial. Está en estado `Draft` hasta validar los elementos estratégicos indicados como propuesta.
+> Workspace activo. El Brand Book, el logo y la referencia de servicios están disponibles dentro de este Workspace.
 
 ## Información general
 
@@ -37,7 +37,7 @@ Clínica de Quito especializada en rejuvenecimiento no quirúrgico, estética fa
 
 VICA comunica una combinación de experiencia médica, cuidado personalizado, prevención y resultados naturales. La web también presenta más de 25 años de experiencia y un trato profesional, cercano y humano.
 
-## Servicios identificados en la web
+## Servicios vigentes
 
 - Hilos tensores.
 - Bioplastia de nariz.
@@ -49,34 +49,31 @@ VICA comunica una combinación de experiencia médica, cuidado personalizado, pr
 - Ácido hialurónico reticulado.
 - Protocolos de crecimiento capilar, mencionados en el Brand Book.
 
-La lista debe validarse con VICA antes de usarla como catálogo vigente o de atribuir beneficios clínicos a un tratamiento.
+La lista entregada confirma los ocho primeros servicios. Los protocolos de crecimiento capilar se mantienen como línea de comunicación del Brand Book y se incluirán solo cuando formen parte de una solicitud.
 
-## Audiencia principal - propuesta por validar
+## Audiencia principal
 
-Personas adultas en Quito que buscan orientación médica y opciones no quirúrgicas para cuidado facial, corporal o capilar, prevención y envejecimiento saludable. No se debe asumir género, edad, condición clínica ni necesidad de tratamiento sin información adicional.
+Personas jóvenes adultas y adultas mayores en Quito que buscan orientación médica y opciones para cuidado facial, corporal o capilar, prevención y envejecimiento saludable. No se debe asumir una condición clínica o necesidad de tratamiento sin información adicional.
 
-## Objetivos de comunicación - propuesta por validar
+## Objetivos de comunicación
 
 1. Educar sobre autocuidado, prevención y tratamientos desde una perspectiva médica.
 2. Fortalecer confianza en la Dra. Virginia Carrizosa y el enfoque personalizado de VICA.
 3. Convertir interés informado en consultas o reservas, sin promesas de resultados.
-4. Mostrar casos, procesos o tecnología solo con autorizaciones y evidencia aprobada.
+4. Mostrar casos, procesos o tecnología cuando la solicitud lo indique.
 
 ## Tono de marca
 
 Profesional, educativo, alentador y cercano. Debe sentirse clínico-premium, sobrio, equilibrado y humano; nunca agresivamente comercial, alarmista o superficial.
 
-## Restricciones y validaciones obligatorias
+## CTA y contacto
+
+- CTA principal: invitar a enviar un mensaje directo a Instagram.
+- Alternativa: llamar o escribir al **096 3681574** para recibir información y orientación.
+
+## Reglas de uso
 
 - No inventar indicaciones, resultados, duración, seguridad ni beneficios clínicos.
-- Toda afirmación médica, comparativa o de resultados requiere aprobación de VICA.
-- Antes de usar testimonios, fotografías de pacientes o antes/después, confirmar consentimiento y autorización.
 - Respetar el Brand Book y la referencia de publicaciones previas.
 - El uso de un bloque de color para resaltar palabras o frases clave es un patrón aprobado por la solicitud; debe ser breve, legible y consistente con la paleta.
-
-## Pendiente para activar el Workspace
-
-- Confirmar audiencia prioritaria, objetivos comerciales y servicios vigentes.
-- Confirmar CTA principal, canales de reserva y protocolos de aprobación clínica.
-- Entregar logos editables, tipografías con licencia y fotografías autorizadas si existen.
-- Confirmar qué tipos de casos, testimonios y resultados pueden publicarse.
+- Los recursos, casos, testimonios y restricciones específicas se definirán en cada solicitud de contenido.

@@ -1,7 +1,7 @@
 ---
 id: BRAND-003
 title: VICA Medicina Estética Visual Style
-version: 0.1.0
+version: 0.2.0
 status: Active
 owner: PD Agencia
 created: 2026-07-25
@@ -35,6 +35,8 @@ La estética combina lujo clínico, sofisticación terrenal, bienestar luminoso,
 | Principal | Playfair Display | Titulares, frases editoriales y énfasis sofisticado. |
 | Secundaria | Montserrat | Información clínica, subtítulos, CTA y textos funcionales. |
 
+Las fuentes **Playfair Display** y **Montserrat** están disponibles en Canva para las piezas de VICA. Usarlas con estos roles, sin sustituirlas por fuentes similares.
+
 ## Paleta aprobada
 
 | Nombre | Hex | Uso recomendado |
@@ -54,6 +56,12 @@ La estética combina lujo clínico, sofisticación terrenal, bienestar luminoso,
 ## Patrón observado en publicaciones previas
 
 Para resaltar una palabra o frase importante, usar un bloque rectangular breve en teal con alto contraste. No convertir todos los textos en bloques ni competir con el mensaje principal.
+
+## Recursos disponibles
+
+- Brand Book: `assets/brand/vica-brand-book.pdf`.
+- Logo negro: `assets/brand/vica-logo-black.png`.
+- En Canva: usar las variantes aprobadas del logo y las fuentes definidas arriba.
 
 ## Voz visual y verbal
 

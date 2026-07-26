@@ -1,8 +1,8 @@
 ---
 id: CONTENT-003
 title: VICA Medicina Estética Content Pillars
-version: 0.1.0
-status: Draft
+version: 0.2.0
+status: Active
 owner: PD Agencia
 created: 2026-07-25
 last_updated: 2026-07-25
@@ -15,7 +15,7 @@ related:
 
 # VICA Medicina Estética - Content Pillars
 
-> Propuesta inicial construida a partir del Brand Book, la web y publicaciones previas. Requiere aprobación estratégica de VICA antes de planificar contenido.
+> Pilares iniciales construidos a partir del Brand Book, la web y publicaciones previas. Los recursos y restricciones específicos se definen en cada solicitud.
 
 ## 1. Envejecimiento inteligente y prevención
 
