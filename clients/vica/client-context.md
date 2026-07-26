@@ -11,6 +11,7 @@ category: Client Context
 related:
   - clients/vica/brand/visual-style.md
   - clients/vica/content/pillars.md
+  - clients/vica/templates/index.md
   - docs/AI_CONTEXT.md
   - docs/production-pipeline.md
 ---
